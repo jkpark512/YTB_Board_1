@@ -1,0 +1,11 @@
+Windows11
+
+Maria db 10.11.2
+Mysql workbench community 8.0.32
+
+Java 8
+Gradle-groovy
+Spring Boot 2.7.10
+(Spring Web, Spring Data Jpa, Mariadb Driver, Thymeleaf, Lombok)
+
+한코딩-[스프링 부트] 게시판 무작정 따라하기
