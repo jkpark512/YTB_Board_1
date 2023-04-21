@@ -9,3 +9,15 @@ Spring Boot 2.7.10
 (Spring Web, Spring Data Jpa, Mariadb Driver, Thymeleaf, Lombok)
 
 한코딩-[스프링 부트] 게시판 무작정 따라하기
+
+기능
+
+글 작성
+게시글 수정
+게시글 삭제
+게시글 검색
+게시글 보기
+게시글 리스트 보기
+게시글 리스트 페이지 처리
+파일 업로드
+
